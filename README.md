@@ -9,14 +9,14 @@ CO2 PPM - Trends in Atmospheric Carbon Dioxide. Data are sourced from the US Gov
 ### Citations
 
 1. *Trends in Atmospheric Carbon Dioxide, Mauna Loa, Hawaii.* Dr. Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
-1. *Trends in Atmospheric Carbon Dioxide, Global.* Ed Dlugokencky and Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/).
+2. *Trends in Atmospheric Carbon Dioxide, Global.* Ed Dlugokencky and Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/).
 
 ### Sources
 
-1. 
+1. Source 1
   * Name: Trends in Atmospheric Carbon Dioxide, Mauna Loa, Hawaii
   * Web: http://www.esrl.noaa.gov/gmd/ccgg/trends/index.html
-1. 
+2. Source 2
   * Name: Trends in Atmospheric Carbon Dioxide, Global
   * Web: http://www.esrl.noaa.gov/gmd/ccgg/trends/global.html
 
